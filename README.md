@@ -1,6 +1,6 @@
-## Phuluso's Self-Taught Programming and Ethical Hacking Journey 👨‍💻
+## Im Phuluso  👨‍💻
 
-This GitHub profile documents my journey as a self-taught programmer and aspiring ethical hacker. I'm currently learning and building projects with the following technologies:
+This GitHub profile documents my journey as a self-taught programmer . I'm currently learning and building projects with the following technologies:
 
 **Programming Languages:**
 - Python
@@ -8,16 +8,8 @@ This GitHub profile documents my journey as a self-taught programmer and aspirin
 - HTML
 - CSS
 
-**Ethical Hacking Tools & Concepts:**
-- Nmap (Network scanning and discovery)
-- Wireshark (Network protocol analysis)
-- Metasploit (Penetration testing framework)
-
-**Skills:**
-- Python scripting for automation and security tasks.
 
 This space will be used to track my progress, share the projects I'm working on, and contribute to the open-source community as my skills grow. Feel free to connect and follow my learning adventure!
-
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
