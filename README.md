@@ -7,6 +7,8 @@ This GitHub profile documents my journey as a self-taught programmer . I'm curre
 - JavaScript
 - HTML
 - CSS
+- Kotlin
+  
 
 
 This space will be used to track my progress, share the projects I'm working on, and contribute to the open-source community as my skills grow. Feel free to connect and follow my learning adventure!
