@@ -9,6 +9,7 @@ This GitHub profile documents my journey as a self-taught programmer . I'm curre
 - CSS
 - Kotlin
 - MongoDB
+- Django
   
 
 
