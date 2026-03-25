@@ -8,6 +8,7 @@ This GitHub profile documents my journey as a self-taught programmer . I'm curre
 - HTML
 - CSS
 - Kotlin
+- MonoDB
   
 
 
