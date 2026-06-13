@@ -3,6 +3,7 @@
 This GitHub profile documents my journey as a self-taught programmer . I'm currently learning and building projects with the following technologies:
 
 **Programming Languages:**
+- C++
 - Python
 - JavaScript
 - HTML
