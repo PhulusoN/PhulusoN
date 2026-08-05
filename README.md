@@ -4,13 +4,12 @@ This GitHub profile documents my journey as a self-taught programmer . I'm curre
 
 **Programming Languages:**
 - C++
-- Python
+- C#
 - JavaScript
 - HTML
 - CSS
+- React Native
 - Kotlin
-- MongoDB
-- Django
   
 
 
