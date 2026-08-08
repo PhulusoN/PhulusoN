@@ -5,7 +5,6 @@ This GitHub profile documents my journey as a self-taught programmer . I'm curre
 **Programming Languages:**
 - C++
 - C#
-- JavaScript
 - HTML
 - CSS
 - React Native
